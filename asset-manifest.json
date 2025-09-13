@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.80e3b1c2.css",
-    "main.js": "/static/js/main.61964d48.js",
-    "static/media/PranavResume.pdf": "/static/media/PranavResume.3cad71a22711ddfbba3a.pdf",
+    "main.js": "/static/js/main.e5d1f64f.js",
+    "static/media/PranavResume.pdf": "/static/media/PranavResume.6228b3b0d8fe80ba3db5.pdf",
     "static/media/houseMarket.webp": "/static/media/houseMarket.67ccfd8f677042b4067b.webp",
     "static/media/pranav.webp": "/static/media/pranav.c7b1cb1de3e60765f42e.webp",
     "static/media/ominiFood.webp": "/static/media/ominiFood.e629c5790a02b8c516bf.webp",
@@ -35,10 +35,10 @@
     "index.html": "/index.html",
     "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
     "main.80e3b1c2.css.map": "/static/css/main.80e3b1c2.css.map",
-    "main.61964d48.js.map": "/static/js/main.61964d48.js.map"
+    "main.e5d1f64f.js.map": "/static/js/main.e5d1f64f.js.map"
   },
   "entrypoints": [
     "static/css/main.80e3b1c2.css",
-    "static/js/main.61964d48.js"
+    "static/js/main.e5d1f64f.js"
   ]
 }
